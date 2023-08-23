@@ -1,5 +1,4 @@
 # ✌️ Hello, world! I'm Bartosz!
-[![](https://visitcount.itsvg.in/api?id=amrusb&icon=4&color=3)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 
@@ -11,7 +10,9 @@
 
 # Projects
 
+- [Image Segmentation](https://github.com/amrusb/ImageSegmentation)
 - [Expense Manager](https://github.com/amrusb/ExpenseManager)
+- [Snake](https://github.com/amrusb/Snake)
 - [JavaScript Calculator](https://github.com/amrusb/JS-Calculator)
 - [Mastermind](https://github.com/amrusb/Mastermind)
 - [Hangman](https://github.com/amrusb/Hangman)
