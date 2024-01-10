@@ -2,7 +2,9 @@
 
 # 💫 About Me:
 
-👨🏻‍🎓 I am a second-year student of Computer Science at the Faculty of Mathematics and Natural Sciences of Cardinal Stefan Wyszynski University in Warsaw. <br>Apart from programming, I am passionate about graphic design. I mostly create posters for my friends, but I also have invitations, infographics, and magazine layouts in my portfolio. 
+👨🏻‍🎓 I am a third-year student of Computer Science at the Faculty of Mathematics and Natural Sciences of Cardinal Stefan Wyszynski University in Warsaw. <br>Apart from programming, I am passionate about graphic design. I mostly create posters for my friends, but I also have invitations, infographics, and magazine layouts in my portfolio.
+
+🧑🏻‍💻 I am currently employed at Asseco Data Systems SA as a junior programmer, where I work with Java and PL/SQL to maintain and enhance an application. My responsibilities include ensuring the smooth functioning of the software and contributing to its ongoing development. My role involves actively engaging with Java and PL/SQL programming, troubleshooting issues, and collaborating with the team to implement new features. Working in a dynamic environment like Asseco Data Systems has allowed me to further develop my skills and contribute to the success of the projects I am involved in.
 
 
 # 💻 Tech Stack:
